@@ -29,33 +29,28 @@
     };
     var currentPathname = sanitizePathName(document.location.pathname);
     var index = currentPathname.lastIndexOf('/');
-    var path;
     if (index < 0 || currentPathname[currentPathname.length - 1] == '/') {
-        path = ["index.shtml"];
+        pathLevel = 1;
         currentPathname = "/index.shtml";
     }
-    else {
-        var filename = currentPathname.substr(index+1);
-        var prevPath = currentPathname.substr(0,index);
-        index = prevPath.lastIndexOf('/');
-        if (index < 0)
-            path = [filename];
-        else {
-            var dirname = prevPath.substr(index+1);
-            prevPath = prevPath.substr(0,index);
-            index = prevPath.lastIndexOf('/');
-            if (index < 0)
-                path = [filename, dirname];
-            else {
-                var dirname2 = prevPath.substr(index+1);
-                path = [filename, dirname, dirname2]
-            }
-        }
-    }
+    else
+        pathLevel = currentPathname.split('/').length - 1;
     $("#mainSiteNavBar [href]").each(function (idx, element){
         if (element.getAttribute("href") == currentPathname) {
             $(element).attr("class", "active-menu");
             $(element).attr("href", "#");
+            if (pathLevel > 1) {
+                var p = $(element).parent().parent();
+                var newClass = p.attr("class") + " collapse in";
+                p.attr("class", newClass);
+                p.parent().children("a").attr("class", "active-menu");
+                if (pathLevel > 2) {
+                    p = p.parent().parent();
+                    var newClass = p.attr("class") + " collapse in";
+                    p.attr("class", newClass);
+                    p.parent().children("a").attr("class", "active-menu");
+                }
+            }
         }
     });    
 </script>
