@@ -1,4 +1,4 @@
-﻿<!--#include virtual="/header.shtml"-->
+<!--#include virtual="/header.shtml"-->
 <body>
     <div id="wrapper">
         <!--#include virtual="/nav-es.shtml"-->
@@ -7,12 +7,16 @@
                 <div class="row">
                     <div class="col-md-12">
                      <h2>Auspiciantes</h2>   
-                        <h5>Este año contamos con los siguientes auspiciantes.</h5>
+                        <h5>En 2016 contamos con los siguientes auspiciantes.</h5>
                         <a href="http://www.fundacionsadosky.org.ar"><img src="/assets/img/sadosky.jpg" width=512/></a>
                         <br>
                         <br>
                         <br>
                         <a href="http://engineering.medallia.com"><img src="/assets/img/medallia.png" width=512/></a>
+                        <br>
+                        <br>
+                        <br>
+                        <a href="http://w2.neuquen.gov.ar"><img src="/assets/img/neuquen.png" width=512/></a>
                     </div>
                 </div>              
             </div>
