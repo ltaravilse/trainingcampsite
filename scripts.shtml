@@ -17,21 +17,33 @@
 </script>
 <!-- Nav bar "collapse" magic -->
 <script>
-    
-    var index = document.location.pathname.lastIndexOf("/");
+    var sanitizePathName = function (pathname) {
+        var ret = "";
+        var prev = null;
+        for (var i = 0; i < pathname.length; i++) {
+            if (!(pathname[i] === '/' && prev === '/'))
+                ret += pathname[i]; // Cuadratic processing, why not.
+            prev = pathname[i];
+        }
+        return ret;
+    };
+    var currentPathname = sanitizePathName(document.location.pathname);
+    var index = currentPathname.lastIndexOf('/');
     var path;
-    if (index < 0)
+    if (index < 0 || currentPathname[currentPathname.length - 1] == '/') {
         path = ["index.shtml"];
+        currentPathname = "/index.shtml";
+    }
     else {
-        var filename = document.location.pathname.substr(index+1);
-        var prevPath = document.location.pathname.substr(0,index);
-        index = prevPath.lastIndexOf("/");
+        var filename = currentPathname.substr(index+1);
+        var prevPath = currentPathname.substr(0,index);
+        index = prevPath.lastIndexOf('/');
         if (index < 0)
             path = [filename];
         else {
             var dirname = prevPath.substr(index+1);
             prevPath = prevPath.substr(0,index);
-            index = prevPath.lastIndexOf("/");
+            index = prevPath.lastIndexOf('/');
             if (index < 0)
                 path = [filename, dirname];
             else {
@@ -40,13 +52,10 @@
             }
         }
     }
-    console.log(path);
     $("#mainSiteNavBar [href]").each(function (idx, element){
-        //if (element.class)
-    });
-    index.shtml
-
-
-    
-    
+        if (element.getAttribute("href") == currentPathname) {
+            $(element).attr("class", "active-menu");
+            $(element).attr("href", "#");
+        }
+    });    
 </script>
