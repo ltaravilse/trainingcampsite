@@ -5,8 +5,17 @@
 <script src="/assets/js/bootstrap.min.js"></script>
 <!-- METISMENU SCRIPTS -->
 <script src="/assets/js/jquery.metisMenu.js"></script>
-<!-- CUSTOM SCRIPTS -->
-<script src="/assets/js/custom.js"></script>
+<!-- MORRIS CHART SCRIPTS and CUSTOM SCRIPTS
+     Register them to be loaded *after* the rest of the webpage is already loaded
+-->
+<script>
+    $(document).ready(function () {
+        $.getScript("/assets/js/morris/raphael-2.1.0.min.js");
+        $.getScript("/assets/js/morris/morris.js");
+        $.getScript("/assets/js/custom.js");
+    });
+</script>
+<!-- Nav bar "collapse" magic -->
 <script>
     
     var index = document.location.pathname.lastIndexOf("/");
@@ -33,7 +42,7 @@
     }
     console.log(path);
     $("#mainSiteNavBar [href]").each(function (idx, element){
-        if (element.class)
+        //if (element.class)
     });
     index.shtml
 
