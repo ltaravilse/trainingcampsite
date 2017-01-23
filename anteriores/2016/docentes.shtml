@@ -1,4 +1,4 @@
-﻿<!--#include virtual="/header.shtml"-->
+<!--#include virtual="/header.shtml"-->
 <body>
     <div id="wrapper">
         <!--#include virtual="/nav-es.shtml"-->
@@ -7,9 +7,10 @@
                 <div class="row">
                     <div class="col-md-12">
                      <h2>Docentes</h2>
-                     <h4>Tenemos hasta el momento los siguientes docentes confirmados</h4>
+                     <h4>En 2016 contamos con la presencia de los siguientes docentes:</h4>
                      <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
                      <!--#include virtual="/docentes/leopoldo-taravilse.shtml"-->
+                     <!--#include virtual="/docentes/quimey-vivas.shtml"-->
                     </div>
                 </div>              
             </div>
@@ -18,4 +19,4 @@
     </div>
     <!--#include virtual="/scripts.shtml"-->
 </body>
-</html>
+</html>     
