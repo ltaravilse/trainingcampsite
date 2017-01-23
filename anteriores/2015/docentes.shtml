@@ -1,0 +1,24 @@
+<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Docentes</h2>
+                     <h4>En 2015 contamos con la presencia de los siguientes docentes:</h4>
+                     <!--#include virtual="/docentes/nicolas-alvarez.shtml"-->
+                     <!--#include virtual="/docentes/nicolas-fochesatto.shtml"-->
+                     <!--#include virtual="/docentes/fidel-schaposnik.shtml"-->
+                     <!--#include virtual="/docentes/melanie-sclar.shtml"-->
+                     <!--#include virtual="/docentes/leopoldo-taravilse.shtml"-->
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div>
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>     
