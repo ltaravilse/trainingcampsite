@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-md-12">
                      <h2>Docentes</h2>
-                     <h4>En 2015 contamos con la presencia de los siguientes docentes:</h4>
+                     <h4>En 2014 contamos con la presencia de los siguientes docentes:</h4>
                      <!--#include virtual="/docentes/nicolas-alvarez.shtml"-->
                      <!--#include virtual="/docentes/martin-fixman.shtml"-->
                      <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
