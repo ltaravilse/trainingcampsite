@@ -6,11 +6,21 @@
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                     <h2>Clases teóricas</h2>   
-                        <a href="/anteriores/2016/clases/02-DP.pdf">Programación Dinámica</a>
-                        <br>
-                        <br>
-                        <a href="/anteriores/2016/clases/01-Grafos.pdf">Grafos</a>
+                     <h2>Clases teóricas</h2> 
+                        <ol> 
+                            <li><a href="/anteriores/2016/clases/00-Entrada-salida.pdf">Entrada-Salida</a></li>
+                            <li><a href="/anteriores/2016/clases/01-Grafos.pdf">Grafos parte I</a></li>
+                            <li><a href="/anteriores/2016/clases/02-DP.pdf">Programación Dinámica</a></li>
+                            <li><a href="/anteriores/2016/clases/03-Estructuras.pdf">Estructuras de Datos</a></li>
+                            <li><a href="/anteriores/2016/clases/04-DFS.pdf">Grafos parte II</a></li>
+                            <li><a href="/anteriores/2016/clases/05-Greedy.pdf">Algoritmos Golosos</a></li>
+                            <li><a href="/anteriores/2016/clases/06-BS.pdf">Búsqueda Binaria</a></li>
+                            <li><a href="/anteriores/2016/clases/07-Geometria.pdf">Geometría</a></li>
+                            <li><a href="/anteriores/2016/clases/08-Flujo.pdf">Flujo</a></li>
+                            <li><a href="/anteriores/2016/clases/09-Strings.pdf">Strings</a></li>
+                            <li><a href="/anteriores/2016/clases/10-Primalidad.pdf">Aritmética y Primalidad</a></li>
+                            <li><a href="/anteriores/2016/clases/11-Juegos.pdf">Teoría de Juegos</a></li>
+                        </ol>
                     </div>
                 </div>              
             </div>
