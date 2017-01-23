@@ -1,7 +1,7 @@
-﻿<!--#include virtual="header.shtml"-->
+﻿<!--#include virtual="/header.shtml"-->
 <body>
     <div id="wrapper">
-        <!--#include virtual="nav-es.shtml"-->
+        <!--#include virtual="/nav-es.shtml"-->
         <div id="page-wrapper" >
             <div id="page-inner">
                 <div class="row">
@@ -16,6 +16,6 @@
                       
         </div>
     </div>     
-    <!--#include virtual="scripts.shtml"-->
+    <!--#include virtual="/scripts.shtml"-->
 </body>
 </html>
