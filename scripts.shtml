@@ -7,3 +7,37 @@
 <script src="/assets/js/jquery.metisMenu.js"></script>
 <!-- CUSTOM SCRIPTS -->
 <script src="/assets/js/custom.js"></script>
+<script>
+    
+    var index = document.location.pathname.lastIndexOf("/");
+    var path;
+    if (index < 0)
+        path = ["index.shtml"];
+    else {
+        var filename = document.location.pathname.substr(index+1);
+        var prevPath = document.location.pathname.substr(0,index);
+        index = prevPath.lastIndexOf("/");
+        if (index < 0)
+            path = [filename];
+        else {
+            var dirname = prevPath.substr(index+1);
+            prevPath = prevPath.substr(0,index);
+            index = prevPath.lastIndexOf("/");
+            if (index < 0)
+                path = [filename, dirname];
+            else {
+                var dirname2 = prevPath.substr(index+1);
+                path = [filename, dirname, dirname2]
+            }
+        }
+    }
+    console.log(path);
+    $("#mainSiteNavBar [href]").each(function (idx, element){
+        if (element.class)
+    });
+    index.shtml
+
+
+    
+    
+</script>
