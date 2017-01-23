@@ -2,30 +2,30 @@
     <div class="sidebar-collapse">
         <ul class="nav" id="main-menu">
         <li class="text-center">
-            <img src="assets/img/icpclogo.png" class="user-image img-responsive"/>
+            <img src="/assets/img/icpclogo.png" class="user-image img-responsive"/>
             </li>
         
             <li>
-                <a href="english.html"><img src="assets/img/en.png" width="32"/> English version</a>
+                <a href="/english.shtml"><img src="/assets/img/en.png" width="32"/> English version</a>
             </li>
             
             <li>
-                <a class="active-menu" href="#"><i class="fa fa-navicon fa-2x"></i> Noticias</a>
+                <a href="/index.shtml"><i class="fa fa-navicon fa-2x"></i> Noticias</a>
             </li>
             <li>
                 <a href="#"><i class="fa fa-navicon fa-2x"></i> Edición 2017<span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level">
                     <li>
-                        <a href="2017/actividades.html">Actividades</a>
+                        <a href="/2017/actividades.shtml">Actividades</a>
                     </li>
                     <li>
-                        <a href="2017/clasesteoricas.html">Clases teóricas</a>
+                        <a href="/2017/clasesteoricas.shtml">Clases teóricas</a>
                     </li>
                     <li>
-                        <a href="2017/docentes.html">Docentes a cargo</a>
+                        <a href="/2017/docentes.shtml">Docentes a cargo</a>
                     </li>
                     <li>
-                        <a href="2017/inscripcion.html">Inscripción</a>
+                        <a href="/2017/inscripcion.shtml">Inscripción</a>
                     </li>
                 </ul>
               </li>  
@@ -36,13 +36,13 @@
                         <a href="#">Training Camp 2016<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level">
                             <li>
-                                <a href="2016/clasesteoricas.html">Clases teóricas</a>
+                                <a href="/2016/clasesteoricas.shtml">Clases teóricas</a>
                             </li>
                             <li>
-                                <a href="2016/docentes.html">Docentes a cargo</a>
+                                <a href="/2016/docentes.shtml">Docentes a cargo</a>
                             </li>
                             <li>
-                                <a href="2016/auspiciantes.html">Auspiciantes</a>
+                                <a href="/2016/auspiciantes.shtml">Auspiciantes</a>
                             </li>
 
                         </ul>
@@ -52,13 +52,13 @@
                         <a href="#">Training Camp 2015<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level">
                             <li>
-                                <a href="2015/clasesteoricas.html">Clases teóricas</a>
+                                <a href="/2015/clasesteoricas.shtml">Clases teóricas</a>
                             </li>
                             <li>
-                                <a href="2015/docentes.html">Docentes a cargo</a>
+                                <a href="/2015/docentes.shtml">Docentes a cargo</a>
                             </li>
                             <li>
-                                <a href="2015/auspiciantes.html">Auspiciantes</a>
+                                <a href="/2015/auspiciantes.shtml">Auspiciantes</a>
                             </li>
 
                         </ul>
@@ -68,13 +68,13 @@
                         <a href="#">Training Camp 2014<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level">
                             <li>
-                                <a href="2014/clasesteoricas.html">Clases teóricas</a>
+                                <a href="/2014/clasesteoricas.shtml">Clases teóricas</a>
                             </li>
                             <li>
-                                <a href="2014/docentes.html">Docentes a cargo</a>
+                                <a href="/2014/docentes.shtml">Docentes a cargo</a>
                             </li>
                             <li>
-                                <a href="2014/auspiciantes.html">Auspiciantes</a>
+                                <a href="/2014/auspiciantes.shtml">Auspiciantes</a>
                             </li>
 
                         </ul>
@@ -84,13 +84,13 @@
                         <a href="#">Training Camp 2013<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level">
                             <li>
-                                <a href="2013/clasesteoricas.html">Clases teóricas</a>
+                                <a href="/2013/clasesteoricas.shtml">Clases teóricas</a>
                             </li>
                             <li>
-                                <a href="2013/docentes.html">Docentes a cargo</a>
+                                <a href="/2013/docentes.shtml">Docentes a cargo</a>
                             </li>
                             <li>
-                                <a href="2013/auspiciantes.html">Auspiciantes</a>
+                                <a href="/2013/auspiciantes.shtml">Auspiciantes</a>
                             </li>
 
                         </ul>
@@ -100,13 +100,13 @@
                         <a href="#">Training Camp 2012<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level">
                             <li>
-                                <a href="2012/clasesteoricas.html">Clases teóricas</a>
+                                <a href="/2012/clasesteoricas.shtml">Clases teóricas</a>
                             </li>
                             <li>
-                                <a href="2012/docentes.html">Docentes a cargo</a>
+                                <a href="/2012/docentes.shtml">Docentes a cargo</a>
                             </li>
                             <li>
-                                <a href="2012/auspiciantes.html">Auspiciantes</a>
+                                <a href="/2012/auspiciantes.shtml">Auspiciantes</a>
                             </li>
 
                         </ul>
@@ -116,13 +116,13 @@
                         <a href="#">Training Camp 2011<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level">
                             <li>
-                                <a href="2011/clasesteoricas.html">Clases teóricas</a>
+                                <a href="/2011/clasesteoricas.shtml">Clases teóricas</a>
                             </li>
                             <li>
-                                <a href="2011/docentes.html">Docentes a cargo</a>
+                                <a href="/2011/docentes.shtml">Docentes a cargo</a>
                             </li>
                             <li>
-                                <a href="2011/auspiciantes.html">Auspiciantes</a>
+                                <a href="/2011/auspiciantes.shtml">Auspiciantes</a>
                             </li>
 
 
@@ -133,45 +133,45 @@
                         <a href="#">Training Camp 2010<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level">
                             <li>
-                                <a href="2010/clasesteoricas.html">Clases teóricas</a>
+                                <a href="/2010/clasesteoricas.shtml">Clases teóricas</a>
                             </li>
                             <li>
-                                <a href="2010/docentes.html">Docentes a cargo</a>
+                                <a href="/2010/docentes.shtml">Docentes a cargo</a>
                             </li>
                             <li>
-                                <a href="2010/auspiciantes.html">Auspiciantes</a>
+                                <a href="/2010/auspiciantes.shtml">Auspiciantes</a>
                             </li>
 
                         </ul>
                     </li>
                     <li>
-                        <a href="sedes.html">Sedes y organizadores locales</a>
+                        <a href="/sedes.shtml">Sedes y organizadores locales</a>
                     </li>
                 </ul>
               </li>  
             <li>
-                <a  href="auspiciantes.html"><i class="fa fa-navicon fa-2x"></i> Auspiciantes</a>
+                <a  href="/auspiciantes.shtml"><i class="fa fa-navicon fa-2x"></i> Auspiciantes</a>
             </li>
             <li>
-                <a  href="comite.html"><i class="fa fa-navicon fa-2x"></i> Comité organizador</a>
+                <a  href="/comite.shtml"><i class="fa fa-navicon fa-2x"></i> Comité organizador</a>
             </li>
             <li>
-                <a  href="objetivos.html"><i class="fa fa-navicon fa-2x"></i> Objetivos</a>
+                <a  href="/objetivos.shtml"><i class="fa fa-navicon fa-2x"></i> Objetivos</a>
             </li>   
             <li>
-                <a  href="quees.html"><i class="fa fa-navicon fa-2x"></i> ¿Qué es el Training Camp?</a>
+                <a  href="/quees.shtml"><i class="fa fa-navicon fa-2x"></i> ¿Qué es el Training Camp?</a>
             </li>
             <li>
-                <a  href="historia.html"><i class="fa fa-navicon fa-2x"></i> Historia del Training Camp</a>
+                <a  href="/historia.shtml"><i class="fa fa-navicon fa-2x"></i> Historia del Training Camp</a>
             </li>
             <li>
-                <a  href="laicpc.html"><i class="fa fa-navicon fa-2x"></i> La ACM ICPC</a>
+                <a  href="/laicpc.shtml"><i class="fa fa-navicon fa-2x"></i> La ACM ICPC</a>
             </li>
             <li>
-                <a  href="testimonios.html"><i class="fa fa-navicon fa-2x"></i> Testimonios</a>
+                <a  href="/testimonios.shtml"><i class="fa fa-navicon fa-2x"></i> Testimonios</a>
             </li>
             <li>
-                <a  href="contacto.html"><i class="fa fa-navicon fa-2x"></i> Contacto </a>
+                <a  href="/contacto.shtml"><i class="fa fa-navicon fa-2x"></i> Contacto </a>
             </li>               
         </ul>
        
