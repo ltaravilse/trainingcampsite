@@ -1,0 +1,32 @@
+<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Clases teóricas</h2> 
+                        <ol> 
+                            <li><a href="/anteriores/2014/clases/01-DP.pdf">Programación Dinámica</a></li>
+                            <li><a href="/anteriores/2014/clases/02-Grafos.pdf">Grafos parte I</a></li>
+                            <li><a href="/anteriores/2014/clases/03-BS.pdf">Búsqueda Binaria</a></li>
+                            <li><a href="/anteriores/2014/clases/04-Golosos.pdf">Algoritmos Golosos</a></li>
+                            <li><a href="/anteriores/2014/clases/05-Strings.pdf">Strings</a></li>
+                            <li><a href="/anteriores/2014/clases/06-Grafos2.pdf">Grafos parte II</a></li>
+                            <li><a href="/anteriores/2014/clases/07-Grafos3.pdf">Grafos parte III</a></li>
+                            <li><a href="/anteriores/2014/clases/08-Estructuras.pdf">Estructuras de Datos</a></li>
+                            <li><a href="/anteriores/2014/clases/09-Aritmetica.pdf">Aritmética</a></li>
+                            <li><a href="/anteriores/2014/clases/10-Geometria.pdf">Geometría</a></li>
+                            <li><a href="/anteriores/2014/clases/11-Matematica+FFT.pdf">Matemática (FFT + Extras)</a></li>
+                            <li><a href="/anteriores/2014/clases/12-Flujo.pdf">Flujo</a></li>
+                        </ol>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>
