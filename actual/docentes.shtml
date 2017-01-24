@@ -6,10 +6,10 @@
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                     <h2>Docentes</h2>
-                     <h4>Tenemos hasta el momento los siguientes docentes confirmados</h4>
-                     <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
-                     <!--#include virtual="/docentes/leopoldo-taravilse.shtml"-->
+                        <h2>Docentes</h2>
+                        <h4>Tenemos hasta el momento los siguientes docentes confirmados</h4>
+                        <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
+                        <!--#include virtual="/docentes/leopoldo-taravilse.shtml"-->
                     </div>
                 </div>              
             </div>
