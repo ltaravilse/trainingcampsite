@@ -1,3 +1,4 @@
+<div>
 <nav id="mainSiteNavBar" class="navbar-default navbar-side" role="navigation">
     <div class="sidebar-collapse">
         <ul class="nav" id="main-menu">
@@ -178,3 +179,4 @@
     </div>
     
 </nav>
+</div>
