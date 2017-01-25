@@ -1,0 +1,22 @@
+<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Lecturers</h2>
+                     <h4>In 2016 we had the following lecturers:</h4>
+                     <!--#include virtual="/lecturers/agustin-gutierrez.shtml"-->
+                     <!--#include virtual="/lecturers/leopoldo-taravilse.shtml"-->
+                     <!--#include virtual="/lecturers/quimey-vivas.shtml"-->
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div>
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>     

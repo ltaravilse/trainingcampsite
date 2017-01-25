@@ -1,0 +1,28 @@
+<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Sponsors</h2>   
+                        <h4>In 2016 we had the following sponsors.</h4>
+                        <a href="http://www.fundacionsadosky.org.ar"><img src="/assets/img/sadosky.jpg" width=512/></a>
+                        <br>
+                        <br>
+                        <br>
+                        <a href="https://engineering.medallia.com"><img src="/assets/img/medallia.png" width=512/></a>
+                        <br>
+                        <br>
+                        <br>
+                        <a href="http://w2.neuquen.gov.ar"><img src="/assets/img/neuquen.png" width=256/></a>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>

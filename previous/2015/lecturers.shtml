@@ -1,0 +1,24 @@
+<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-en.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Lecturers</h2>
+                     <h4>In 2015 we had the following lecturers:</h4>
+                     <!--#include virtual="/lecturers/nicolas-alvarez.shtml"-->
+                     <!--#include virtual="/lecturers/nicolas-fochesatto.shtml"-->
+                     <!--#include virtual="/lecturers/fidel-schaposnik.shtml"-->
+                     <!--#include virtual="/lecturers/melanie-sclar.shtml"-->
+                     <!--#include virtual="/lecturers/leopoldo-taravilse.shtml"-->
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div>
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>     

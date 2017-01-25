@@ -6,13 +6,21 @@
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                     <h2>Auspiciantes</h2>   
-                        <h4>En 2013 contamos con los siguientes auspiciantes.</h4>
+                     <h2>Sponsors</h2>   
+                        <h4>In 2015 we had the following sponsors.</h4>
                         <a href="https://www.fundacionsadosky.org.ar"><img src="/assets/img/sadosky.jpg" width=512/></a>
                         <br>
                         <br>
                         <br>
+                        <a href="https://engineering.medallia.com"><img src="/assets/img/medallia.png" width=512/></a>
+                        <br>
+                        <br>
+                        <br>
                         <a href="https://careers.google.com"><img src="/assets/img/google.jpg" width=512/></a>
+                        <br>
+                        <br>
+                        <br>
+                        <a href="https://www.facebook.com/careers"><img src="/assets/img/facebook.jpg" width=512/></a>
                     </div>
                 </div>              
             </div>
