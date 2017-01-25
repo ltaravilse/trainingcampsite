@@ -1,0 +1,28 @@
+<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Clases teóricas</h2> 
+                        <ol> 
+                            <li><a href="/anteriores/2012/clases/01-Grafos.pdf">Grafos</a></li>
+                            <li><a href="/anteriores/2012/clases/02-BS.pdf">Búsqueda Binaria</a></li>
+                            <li><a href="/anteriores/2012/clases/03-Greedy.pdf">Algoritmos Golosos</a></li>
+                            <li><a href="/anteriores/2012/clases/04-DP.pdf">Programación Dinámica</a></li>
+                            <li><a href="/anteriores/2012/clases/05-Aritmetica.pdf">Aritmética</a></li>
+                            <li><a href="/anteriores/2012/clases/06-Estructuras.pdf">Estructuras de Datos</a></li>
+                            <li><a href="/anteriores/2012/clases/07-Geometria.pdf">Geometría</a></li>
+                            <li><a href="/anteriores/2012/clases/08-Strings.pdf">Strings</a></li>
+                        </ol>
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>
