@@ -15,7 +15,7 @@
             </li>
             <li>
                 <a href="#"><i class="fa fa-navicon fa-2x"></i> Edición 2017<span class="fa arrow"></span></a>
-                <ul class="nav nav-second-level">
+                <ul class="nav nav-second-level collapse">
                     <li>
                         <a href="/actual/actividades.shtml">Actividades</a>
                     </li>
@@ -32,10 +32,10 @@
               </li>  
               <li>
                 <a href="#"><i class="fa fa-navicon fa-2x"></i> Ediciones anteriores<span class="fa arrow"></span></a>
-                <ul class="nav nav-second-level">
+                <ul class="nav nav-second-level collapse">
                     <li>
                         <a href="#">Training Camp 2016<span class="fa arrow"></span></a>
-                        <ul class="nav nav-third-level">
+                        <ul class="nav nav-third-level collapse">
                             <li>
                                 <a href="/anteriores/2016/clases.shtml">Clases teóricas</a>
                             </li>
@@ -51,7 +51,7 @@
                     </li>
                     <li>
                         <a href="#">Training Camp 2015<span class="fa arrow"></span></a>
-                        <ul class="nav nav-third-level">
+                        <ul class="nav nav-third-level collapse">
                             <li>
                                 <a href="/anteriores/2015/clases.shtml">Clases teóricas</a>
                             </li>
@@ -67,7 +67,7 @@
                     </li>
                     <li>
                         <a href="#">Training Camp 2014<span class="fa arrow"></span></a>
-                        <ul class="nav nav-third-level">
+                        <ul class="nav nav-third-level collapse">
                             <li>
                                 <a href="/anteriores/2014/clases.shtml">Clases teóricas</a>
                             </li>
@@ -83,7 +83,7 @@
                     </li>
                     <li>
                         <a href="#">Training Camp 2013<span class="fa arrow"></span></a>
-                        <ul class="nav nav-third-level">
+                        <ul class="nav nav-third-level collapse">
                             <li>
                                 <a href="/anteriores/2013/clases.shtml">Clases teóricas</a>
                             </li>
@@ -99,7 +99,7 @@
                     </li>
                     <li>
                         <a href="#">Training Camp 2012<span class="fa arrow"></span></a>
-                        <ul class="nav nav-third-level">
+                        <ul class="nav nav-third-level collapse">
                             <li>
                                 <a href="/anteriores/2012/clases.shtml">Clases teóricas</a>
                             </li>
@@ -115,7 +115,7 @@
                     </li>
                     <li>
                         <a href="#">Training Camp 2011<span class="fa arrow"></span></a>
-                        <ul class="nav nav-third-level">
+                        <ul class="nav nav-third-level collapse">
                             <li>
                                 <a href="/anteriores/2011/clases.shtml">Clases teóricas</a>
                             </li>
@@ -132,7 +132,7 @@
                     </li>
                     <li>
                         <a href="#">Training Camp 2010<span class="fa arrow"></span></a>
-                        <ul class="nav nav-third-level">
+                        <ul class="nav nav-third-level collapse">
                             <li>
                                 <a href="/anteriores/2010/clases.shtml">Clases teóricas</a>
                             </li>

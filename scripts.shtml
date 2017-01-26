@@ -41,12 +41,12 @@
             $(element).attr("href", "#");
             if (pathLevel > 1) {
                 var p = $(element).parent().parent();
-                var newClass = p.attr("class") + " collapse in";
+                var newClass = p.attr("class") + " in";
                 p.attr("class", newClass);
                 p.parent().children("a").attr("class", "active-menu");
                 if (pathLevel > 2) {
                     p = p.parent().parent();
-                    var newClass = p.attr("class") + " collapse in";
+                    var newClass = p.attr("class") + " in";
                     p.attr("class", newClass);
                     p.parent().children("a").attr("class", "active-menu");
                 }
