@@ -6,12 +6,14 @@
             <div id="page-inner">
                 <div class="row">
                     <div class="col-md-12">
-                     <h2>Noticias</h2>   
+                     <h2>Noticias</h2>
+                        <h5><b>25/02/2016</b></h5>
+                        <p>Abrimos la inscripción hasta el 31 de marzo, pueden inscribirse yendo a Edición 2017 -> Inscripción</p>
                         <h5><b>25/01/2016</b></h5>
                         <p>El Training Camp 2017 se realizará en la Universidad Nacional de San Martín (UNSAM) del 17 al 28 de julio. Pronto anunciaremos la fecha de la inscripción.</p>
                         <br>
                         <h5><b>25/01/2016</b></h5>
-                        <p>Hoy inauguramos la página del Training Camp.</p>
+                        <p>Hoy inauguramos la página del Training Camp. Por el momento sólo está disponible en versión Desktop.</p>
                     </div>
                 </div>              
             </div>
