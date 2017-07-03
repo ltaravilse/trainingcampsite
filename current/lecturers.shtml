@@ -10,6 +10,8 @@
                         <h4>So far we have confirmed the following lecturers:</h4>
                         <!--#include virtual="/lecturers/agustin-gutierrez.shtml"-->
                         <!--#include virtual="/lecturers/leopoldo-taravilse.shtml"-->                    
+                        <!--#include virtual="/lecturers/pablo-blanc.shtml"-->                    
+                        <!--#include virtual="/lecturers/juan-cruz.shtml"-->                    
                     </div>
                 </div>              
             </div>

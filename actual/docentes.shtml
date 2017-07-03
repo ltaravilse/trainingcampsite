@@ -10,6 +10,8 @@
                         <h4>Tenemos hasta el momento los siguientes docentes confirmados</h4>
                         <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
                         <!--#include virtual="/docentes/leopoldo-taravilse.shtml"-->
+                        <!--#include virtual="/docentes/pablo-blanc.shtml"-->
+                        <!--#include virtual="/docentes/juan-cruz.shtml"-->
                     </div>
                 </div>              
             </div>
