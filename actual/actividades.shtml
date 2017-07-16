@@ -37,7 +37,52 @@
 						<li><strong>Viernes 28</strong>: Por la tarde se hará el cierre del training camp, la consulta a los participantes sobre cambios y mejoras al training camp , y se darán premios a los equipos que hayan tenido los mejores resultados durante el campamento.</li>
                         </ul>
                     <h2>Cronograma de Charlas</h2>
-						<p>Pronto confirmaremos el cronograma preciso de todas las charlas que se dictarán, junto con su correspondiente temática.</p>
+						<h3>Primera semana:</h3>
+						<ul>
+							<li><strong>Lunes 17:</strong> 
+								<ul> <li>Entrada / Salida , Búsqueda Binaria y Algoritmos Golosos (Principiante)  
+								     <li>Entrada / Salida , Búsqueda Binaria y Algoritmos Golosos (Avanzado)  </li>
+								</ul>
+							</li>
+							<li><strong>Martes 18:</strong> 
+								<ul> <li>Programación Dinámica: Ejemplos básicos clásicos, patrón  de subproblemas en rangos (Principiante)  
+								     <li>Programación Dinámica: Subproblemas de subconjuntos (máscara de bits), de frente en un tablero, técnicas de optimización (Divide and Conquer, Knuth, Convex hull) (Avanzado)  </li>
+								</ul>
+							</li>
+							<li><strong>Miércoles 19:</strong> 
+								<ul> <li>Grafos I: DFS, BFS, Dijkstra, Ejemplos (Principiante)  
+								     <li>Árboles: Centroid decomposition, Sparse Table + Sparse Tree, recursiones en árboles (Avanzado)  </li>
+								</ul>
+							</li>
+							<li><strong>Jueves 20:</strong> 
+								<ul> <li>Grafos II: Floyd, Bellman Ford, AGM (Kruskal, Union-Find) (Principiante)  
+								     <li>Conectividad: DFS avanzado, componentes fuertemente conexas, biconexas, puentes y puntos de articulación (Avanzado)  </li>
+								</ul>
+							</li>
+						</ul>
+						<h3>Segunda semana:</h3>
+						<ul>
+							<li><strong>Lunes 24:</strong> 
+								<ul> <li>Estructuras: Tabla aditiva, Sparse Table, Segment Tree (Principiante)  
+								     <li>Estructuras: Segment Tree con Lazy Propagation, Lazy Creation y Persistencia, aplicaciones (árboles, queries online) (Avanzado)  </li>
+								</ul>
+							</li>
+							<li><strong>Martes 25:</strong> 
+								<ul> <li>Geometría: Representación de puntos/rectas, producto escalar y vectorial, cuentas lineales, discretización de candidatos, cápsula convexa (Principiante)  
+								     <li>Geometría: Área de unión de rectángulos, sweep circle, par de puntos más lejano (Avanzado)  </li>
+								</ul>
+							</li>
+							<li><strong>Miércoles 26:</strong> 
+								<ul> <li>Strings: Trie y KMP (Principiante)  
+								     <li>Strings: Suffix Tree, Suffix Automaton y Aho Corasick (Avanzado)  </li>
+								</ul>
+							</li>
+							<li><strong>Jueves 27:</strong> 
+								<ul> <li>Aritmética modular, potenciación logarítmica, criba (Principiante)  
+								     <li>Rabin Miller, Pollard's Rho, Karatsuba, FFT (Avanzado)  </li>
+								</ul>
+							</li>
+						</ul>
                     </div>
                 </div>              
             </div>
