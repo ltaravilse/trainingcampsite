@@ -7,7 +7,13 @@
                 <div class="row">
                     <div class="col-md-12">
                      <h2>Clases teóricas</h2>
-                     <p>Luego de cada clase teórica subiremos diapositivas y/o apuntes con los contenidos de las mismas.</p>
+                     <ol> 
+						        
+                            <li><a href="/actual/clases/01-intro.pdf">Introducción al TC</a></li>
+                            <li><a href="/actual/clases/01-fast-io.pdf">E/S rápida</a></li>
+                            <li><a href="/actual/clases/01-BS.pdf">Búsqueda binaria</a></li>
+                            <li><a href="/actual/clases/01-Greedy.pdf">Algoritmos golosos</a></li>
+                        </ol>
                     </div>
                 </div>              
             </div>
