@@ -50,13 +50,13 @@
 								</ul>
 							</li>
 							<li><strong>Miércoles 19:</strong> 
-								<ul> <li>Grafos I: DFS, BFS, Dijkstra, Ejemplos (Principiante)  
-								     <li>Árboles: Centroid decomposition, Sparse Table + Sparse Tree, recursiones en árboles (Avanzado)  </li>
+								<ul> <li>Grafos I. Algoritmos para recorrer grafos. Camino mínimo (BFS, DFS, Dijkstra) (Principiante)  
+								     <li>Conectividad: DFS avanzado, componentes fuertemente conexas, biconexas, puentes y puntos de articulación (Avanzado)  </li>
 								</ul>
 							</li>
 							<li><strong>Jueves 20:</strong> 
-								<ul> <li>Grafos II: Floyd, Bellman Ford, AGM (Kruskal, Union-Find) (Principiante)  
-								     <li>Conectividad: DFS avanzado, componentes fuertemente conexas, biconexas, puentes y puntos de articulación (Avanzado)  </li>
+								<ul> <li>Grafos II. Algoritmos de Bellman Ford y Floyd para camino mínimo. Árbol generador mínimo. (Principiante)  
+								     <li>Árboles: Centroid decomposition, Sparse Table + Sparse Tree, recursiones en árboles (Avanzado)  </li>
 								</ul>
 							</li>
 						</ul>
@@ -74,12 +74,12 @@
 							</li>
 							<li><strong>Miércoles 26:</strong> 
 								<ul> <li>Strings: Trie y KMP (Principiante)  
-								     <li>Strings: Suffix Tree, Suffix Automaton y Aho Corasick (Avanzado)  </li>
+								     <li>Strings: Estructuras sobre sufijos. Algoritmo de Aho Corasick (Avanzado)  </li>
 								</ul>
 							</li>
 							<li><strong>Jueves 27:</strong> 
-								<ul> <li>Aritmética modular, potenciación logarítmica, criba (Principiante)  
-								     <li>Rabin Miller, Pollard's Rho, Karatsuba, FFT (Avanzado)  </li>
+								<ul> <li>Aritmética modular. Exponenciación Logarítmica. Criba de Eratóstenes (Principiante)  
+								     <li>Primalidad. Factorización. Multiplicación rápida de polinomios (FFT) (Avanzado)  </li>
 								</ul>
 							</li>
 						</ul>
