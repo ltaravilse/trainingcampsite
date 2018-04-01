@@ -14,7 +14,7 @@
                 <a href="/index.shtml"><i class="fa fa-navicon fa-2x"></i> Noticias</a>
             </li>
             <li>
-                <a href="#"><i class="fa fa-navicon fa-2x"></i> Edición 2017<span class="fa arrow"></span></a>
+                <!--<a href="#"><i class="fa fa-navicon fa-2x"></i> Edición 2017<span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
                     <li>
                         <a href="/actual/actividades.shtml">Actividades</a>
@@ -29,10 +29,33 @@
                         <a href="/actual/inscripcion.shtml">Inscripción</a>
                     </li>
                 </ul>
-              </li>  
+              </li> --> 
+                <a href="#"><i class="fa fa-navicon fa-2x"></i> Edición 2017<span class="fa arrow"></span></a>
+                <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a href="/actual/inscripcion.shtml">Inscripción</a>
+                    </li>
+                </ul>
+              </li>
               <li>
                 <a href="#"><i class="fa fa-navicon fa-2x"></i> Ediciones anteriores<span class="fa arrow"></span></a>
                 <ul class="nav nav-second-level collapse">
+                    <li>
+                        <a href="#">Training Camp 2016<span class="fa arrow"></span></a>
+                        <ul class="nav nav-third-level collapse">
+                            <li>
+                                <a href="/anteriores/2017/clases.shtml">Clases teóricas</a>
+                            </li>
+                            <li>
+                                <a href="/anteriores/2017/docentes.shtml">Docentes a cargo</a>
+                            </li>
+                            <li>
+                                <a href="/anteriores/2017/auspiciantes.shtml">Auspiciantes</a>
+                            </li>
+
+                        </ul>
+                       
+                    </li>
                     <li>
                         <a href="#">Training Camp 2016<span class="fa arrow"></span></a>
                         <ul class="nav nav-third-level collapse">

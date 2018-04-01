@@ -1,0 +1,21 @@
+﻿<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Inscripción</h2>
+                     <p>La inscripción está cerrada. Si alguien no se inscribió pero figura como compañero/a de alguien inscripto por favor llenar el formulario de contacto indicando de esta situación y dando su correo electrónico.</p>
+                     <br>
+                    </div>
+
+                </div>              
+            </div>
+                      
+        </div>
+    </div>
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>
