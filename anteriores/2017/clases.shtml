@@ -9,20 +9,20 @@
                      <h2>Diapositivas de clases teóricas</h2>
                      <ol> 
 						        
-                            <li><a href="/actual/clases/01-intro.pdf">Introducción al TC</a></li>
-                            <li><a href="/actual/clases/01-fast-io.pdf">E/S rápida</a></li>
-                            <li><a href="/actual/clases/01-BS.pdf">Búsqueda binaria</a></li>
-                            <li><a href="/actual/clases/01-Greedy.pdf">Algoritmos golosos</a></li>
-                            <li><a href="/actual/clases/02-dp-principiante.pdf">DP Principiante</a></li>
-                            <li><a href="/actual/clases/02-dp-avanzado.pdf">DP Avanzado</a></li>
-                            <li><a href="/actual/clases/03-grafos1.pdf">Grafos I</a></li>
-                            <li><a href="/actual/clases/03-dfs-avanzado.pdf">DFS Avanzado</a></li>
-                            <li><a href="/actual/clases/04-grafos2.pdf">Grafos II</a></li>
-                            <li><a href="/actual/clases/05-estructuras.pdf">Estructuras para operadores asociativos</a></li>
-                            <li><a href="/actual/clases/06-geometria.pdf">Geometría</a></li>
-                            <li><a href="/actual/clases/06-geometria-avanzado.pdf">Técnicas avanzadas de geometría</a></li>
-                            <li><a href="/actual/clases/07-strings.pdf">Strings</a></li>
-                            <li><a href="/actual/clases/08-primalidad.pdf">Primalidad</a></li>
+                            <li><a href="/anteriores/2017/clases/01-intro.pdf">Introducción al TC</a></li>
+                            <li><a href="/anteriores/2017/clases/01-fast-io.pdf">E/S rápida</a></li>
+                            <li><a href="/anteriores/2017/clases/01-BS.pdf">Búsqueda binaria</a></li>
+                            <li><a href="/anteriores/2017/clases/01-Greedy.pdf">Algoritmos golosos</a></li>
+                            <li><a href="/anteriores/2017/clases/02-dp-principiante.pdf">DP Principiante</a></li>
+                            <li><a href="/anteriores/2017/clases/02-dp-avanzado.pdf">DP Avanzado</a></li>
+                            <li><a href="/anteriores/2017/clases/03-grafos1.pdf">Grafos I</a></li>
+                            <li><a href="/anteriores/2017/clases/03-dfs-avanzado.pdf">DFS Avanzado</a></li>
+                            <li><a href="/anteriores/2017/clases/04-grafos2.pdf">Grafos II</a></li>
+                            <li><a href="/anteriores/2017/clases/05-estructuras.pdf">Estructuras para operadores asociativos</a></li>
+                            <li><a href="/anteriores/2017/clases/06-geometria.pdf">Geometría</a></li>
+                            <li><a href="/anteriores/2017/clases/06-geometria-avanzado.pdf">Técnicas avanzadas de geometría</a></li>
+                            <li><a href="/anteriores/2017/clases/07-strings.pdf">Strings</a></li>
+                            <li><a href="/anteriores/2017/clases/08-primalidad.pdf">Primalidad</a></li>
                         </ol>
                         <h2>Videos de clases teóricas</h2>
                        <ol> 

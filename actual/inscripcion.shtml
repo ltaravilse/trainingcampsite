@@ -1,0 +1,30 @@
+﻿<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     <h2>Inscripción</h2>
+                     <p>La inscripción al Training Camp estará abierta durante todo el mes de Abril, finalizando el día <strong>30 de Abril</strong>. Para inscribirse, completar <a href="https://docs.google.com/forms/d/e/1FAIpQLScxITB3IawNXtloeV3KcdjYIfbyu6h0GGhwdYVpxs9LLuBrgQ/viewform">este formulario en línea</a>.  </p>
+                     
+                     
+                     <p><strong>La fecha de inscripción es estricta</strong>. Si no se inscribieron antes de finalizado el 30 de abril <strong>NO podrán inscribirse más adelante</strong>.</p>
+                     
+                     <p>Solicitamos a todos aquellos que no estén aún seguros si pueden asistir o no (por ejemplo, porque no tienen confirmada la financiación para asistir) que igualmente se inscriban, y <strong>avisen en la inscripción que la participación no está asegurada. No aceptaremos como motivo válido no haberse inscripto &quot;por no tener la posibilidad de asistir asegurada&quot; a quienes quieran inscribirse tardíamente.</strong></p>
+                     
+                     
+                     <p><strong>Solamente en caso de no alcanzar el cupo disponible</strong>, se <strong>podría</strong> llegar a abrir una inscripción tardía, y la misma <strong>podría tener un costo</strong>. El Training Camp es un evento de acceso libre y gratuito para toda la comunidad, ya que esa es una de las convicciones de los organizadores, que dedican mucho tiempo personal. Los participantes que se suman sobre la hora generan enormes complicaciones y trabajo extra, en detrimento de la organización generla del evento. De esta manera se contribuiría a cubrir los gastos que estos improvistos puedan ocasionar.</p>
+                     
+                     <br>
+                    </div>
+
+                </div>              
+            </div>
+                      
+        </div>
+    </div>
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>
