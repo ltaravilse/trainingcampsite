@@ -8,11 +8,17 @@
                     <div class="col-md-12">
                      <h2>Sponsors</h2>   
                         <h4>This year we have the following sponsors.</h4>
-                        <a href="http://www.fundacionsadosky.org.ar"><img src="/assets/img/sadosky.jpg" width=512/></a>
-                        <br>
-                        <br>
-                        <br>
+                        <h3>Platinum:</h3>
                         <a href="http://engineering.medallia.com"><img src="/assets/img/medallia.png" width=512/></a>
+                        
+                        <br>
+                        <br>
+                        <br>
+                        
+                        <h3>Silver:</h3>
+                        <a href="http://www.fundacionsadosky.org.ar"><img src="/assets/img/sadosky.jpg" width=512/></a>
+                        
+                        
                     </div>
                 </div>              
             </div>
