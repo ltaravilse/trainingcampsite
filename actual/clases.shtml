@@ -1,0 +1,58 @@
+<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                     
+                     <h2>Clases teóricas</h2> 
+                        <h3>Clases iniciales:</h3> 
+                            <ol>
+                                <li> E/S + Introdución, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
+                                <li> Búsqueda binaria y ordenamiento, a cargo de <em>Quimey Vivas</em></li>
+                                <li> Programación dinámica, a cargo de <em>Mariano Crosetti</em></li>
+                                <li> Algoritmos golosos, a cargo de <em>Pablo Zimmermann</em></li>
+                                <li> Grafos, a cargo de <em>Matías Hunicken</em></li>
+                                <li> Estructuras de datos para programación competitiva, a cargo de <em>Quimey Vivas</em></li>
+                                <li> Matemática, a cargo de <em>Ariel Zylber</em></li>
+                                <li> Strings, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
+                            </ol>
+                        <h3>Clases avanzadas:</h3> 
+                            <ol>
+                                <li> Matemática: Combinatoria y probabilidad, a cargo de <em>Pablo Zimmermann</em></li>
+                                <li> Geometría computacional, a cargo de <em>Melanie Sclar</em></li>
+                                <li> Dualidad punto línea y &quot;convex hull trick&quot;, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
+                                <li> Flujo máximo, a cargo de <em>Ariel Zylber</em></li>
+                                <li> Estructuras de datos sobre árboles, a cargo de <em>Matías Hunicken</em></li>
+                                <li> Suffix Automaton</li>
+                                
+                            </ol>
+                    <!-- Version 2016 
+                     <h2>Clases teóricas</h2> 
+                        <ol> 
+                            <li><a href="/anteriores/2016/clases/00-Entrada-salida.pdf">Entrada-Salida</a></li>
+                            <li><a href="/anteriores/2016/clases/01-Grafos.pdf">Grafos parte I</a></li>
+                            <li><a href="/anteriores/2016/clases/02-DP.pdf">Programación Dinámica</a></li>
+                            <li><a href="/anteriores/2016/clases/03-Estructuras.pdf">Estructuras de Datos</a></li>
+                            <li><a href="/anteriores/2016/clases/04-DFS.pdf">Grafos parte II</a></li>
+                            <li><a href="/anteriores/2016/clases/05-Greedy.pdf">Algoritmos Golosos</a></li>
+                            <li><a href="/anteriores/2016/clases/06-BS.pdf">Búsqueda Binaria</a></li>
+                            <li><a href="/anteriores/2016/clases/07-Geometria.pdf">Geometría</a></li>
+                            <li><a href="/anteriores/2016/clases/08-Flujo.pdf">Flujo</a></li>
+                            <li><a href="/anteriores/2016/clases/09-Strings.pdf">Strings</a></li>
+                            <li><a href="/anteriores/2016/clases/10-Primalidad.pdf">Aritmética y Primalidad</a></li>
+                            <li><a href="/anteriores/2016/clases/11-Juegos.pdf">Teoría de Juegos</a></li>
+                        </ol>
+                    -->
+                    
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div> 
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>

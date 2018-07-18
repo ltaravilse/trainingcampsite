@@ -1,0 +1,29 @@
+﻿<!--#include virtual="/header.shtml"-->
+<body>
+    <div id="wrapper">
+        <!--#include virtual="/nav-es.shtml"-->
+        <div id="page-wrapper" >
+            <div id="page-inner">
+                <div class="row">
+                    <div class="col-md-12">
+                        <h2>Docentes</h2>
+                        <h4>Este año contamos con la presencia de los siguientes oradores:</h4>
+                        <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
+                        <!--#include virtual="/docentes/quimey-vivas.shtml"-->
+     
+     <!-- Hay que completar estos:     
+                        <!--#include virtual="/docentes/mariano-crosetti.shtml"-->
+                        <!--#include virtual="/docentes/pablo-zimmermann.shtml"-->
+                        <!--#include virtual="/docentes/matias-hunicken.shtml"-->
+     -->
+                        <!--#include virtual="/docentes/ariel-zylber.shtml"-->
+                        <!--#include virtual="/docentes/melanie-sclar.shtml"-->
+                    </div>
+                </div>              
+            </div>
+                      
+        </div>
+    </div>
+    <!--#include virtual="/scripts.shtml"-->
+</body>
+</html>

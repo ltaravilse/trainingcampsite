@@ -35,6 +35,12 @@
                     <li>
                         <a href="/actual/informacion.shtml">Información</a>
                     </li>
+                    <li>
+                        <a href="/actual/docentes.shtml">Docentes</a>
+                    </li>
+                    <li>
+                        <a href="/actual/clases.shtml">Clases teóricas</a>
+                    </li>
                 </ul>
               </li>
               <li>
