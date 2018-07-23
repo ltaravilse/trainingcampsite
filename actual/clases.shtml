@@ -12,21 +12,45 @@
                             <ol>
                                 <li> E/S + Introdución, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
                                 <li> Búsqueda binaria y ordenamiento, a cargo de <em>Quimey Vivas</em></li>
-                                <li> Programación dinámica, a cargo de <em>Mariano Crosetti</em></li>
+                                <li> Programación dinámica, a cargo de <em>Mariano Crosetti</em> <br>
+                                       <ul><li>  Mariano dictará un subconjunto de los siguientes temas, a definir y acorde al tiempo disponible: ¿Qué es la DP?
+                                            Top Down y Bottom Up. Reconstruyendo la solución. K - ésima reconstrucción. Reducir una dimensión de memoria.
+                                            Agregando una flag. Recuperando un parámetro. Dinámica en rangos. Dinámica en de máscara de bits.
+                                            Dinámica en prefijos de números. Dinámica en frentes.
+                                        </li></ul>
+                                </li>
                                 <li> Algoritmos golosos, a cargo de <em>Pablo Zimmermann</em></li>
-                                <li> Grafos, a cargo de <em>Matías Hunicken</em></li>
+                                <li> Grafos, a cargo de <em>Matías Hunicken</em>
+                                       <ul><li>  Temario <strong>tentativo</strong>: Representación de grafos, árboles, DFS/BFS, distancias mínimas (algoritmos de Dijkstra y Floyd), union-find, algoritmo de Kruskal.
+                                        </li></ul>
+                                </li>
+                                    
                                 <li> Estructuras de datos para programación competitiva, a cargo de <em>Quimey Vivas</em></li>
                                 <li> Matemática, a cargo de <em>Ariel Zylber</em></li>
                                 <li> Strings, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
+                                        <ul><li>Arreglo Z (ejemplo, buscar un string en otro). Bordes de una cadena (calculados a partir del arreglo Z, por ejemplo para encontrar sufijos o prefijos palindrómicos eficientemente). Hashing de Rabin-Karp y trucos asociados (o &quot;cómo usar hashing para computar casi cualquier cosa de strings&quot;, como por ejemplo todos los anteriores + el resultado del algoritmo de Manacher + el suffix array de un string). Tries.
+                                        </li></ul>
+
                             </ol>
                         <h3>Clases avanzadas:</h3> 
                             <ol>
                                 <li> Matemática: Combinatoria y probabilidad, a cargo de <em>Pablo Zimmermann</em></li>
                                 <li> Geometría computacional, a cargo de <em>Melanie Sclar</em></li>
                                 <li> Dualidad punto línea y &quot;convex hull trick&quot;, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
+                                       <ul><li> &quot;Convex hull trick&quot; es una técnica conocida para calcular eficientemente &quot;El máximo de varias funciones lineales&quot;, sobre un cierto valor de x. La dualidad punto línea es una forma de transformar problemas con rectas en problemas con puntos, y viceversa. Además de aprender ambas, usaremos esta última técnica para entender de dónde viene el nombre medio misterioso de &quot;convex hull trick&quot;.
+                                        </li></ul>
+
                                 <li> Flujo máximo, a cargo de <em>Ariel Zylber</em></li>
                                 <li> Estructuras de datos sobre árboles, a cargo de <em>Matías Hunicken</em></li>
+                                       <ul><li>  Temario <strong>tentativo</strong>: heavy light decomposition, dsu on tree, centroid decomposition, link-cut tree.
+                                        </li></ul>
+
                                 <li> Suffix Automaton, a cargo de <em>Nicolás Álvarez</em></li>
+                                
+                                       <ul><li>  Suffix automaton: si bien ambas cosas son importantes, la charla se enfoca más en &quot;cómo utilizar la estructura para resolver los problemas&quot;, y no tanto en &quot;por qué se construye así el autómata&quot;. El suffix automaton es una estructura más avanzada y complicada, continuación natural de las estructuras básicas explicadas en la charla básica de strings.
+
+                                        </li></ul>
+
                                 
                             </ol>
                     <!-- Version 2016 
