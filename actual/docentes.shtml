@@ -8,16 +8,15 @@
                     <div class="col-md-12">
                         <h2>Docentes</h2>
                         <h4>Este año contamos con la presencia de los siguientes oradores:</h4>
-                        <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
-                        <!--#include virtual="/docentes/quimey-vivas.shtml"-->
-     
-     <!-- Hay que completar estos:     
+                        <!--#include virtual="/docentes/nicolas-alvarez.shtml"-->     
                         <!--#include virtual="/docentes/mariano-crosetti.shtml"-->
-                        <!--#include virtual="/docentes/pablo-zimmermann.shtml"-->
+                        <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
                         <!--#include virtual="/docentes/matias-hunicken.shtml"-->
-     -->
-                        <!--#include virtual="/docentes/ariel-zylber.shtml"-->
                         <!--#include virtual="/docentes/melanie-sclar.shtml"-->
+                        <!--#include virtual="/docentes/quimey-vivas.shtml"-->
+                        <!--#include virtual="/docentes/pablo-zimmermann.shtml"-->
+                        <!--#include virtual="/docentes/ariel-zylber.shtml"-->
+                        
                     </div>
                 </div>              
             </div>
