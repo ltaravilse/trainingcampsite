@@ -7,7 +7,7 @@
                 <div class="row">
                     <div class="col-md-12">
                         <h2>Docentes</h2>
-                        <h4>Tenemos hasta el momento los siguientes docentes confirmados</h4>
+                        <h4>En 2017 contamos con la presencia de los siguientes docentes:</h4>
                         <!--#include virtual="/docentes/agustin-gutierrez.shtml"-->
                         <!--#include virtual="/docentes/leopoldo-taravilse.shtml"-->
                         <!--#include virtual="/docentes/pablo-blanc.shtml"-->
