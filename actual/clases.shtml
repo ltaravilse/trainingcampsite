@@ -8,6 +8,11 @@
                     <div class="col-md-12">
                      
                      <h2>Clases teóricas</h2> 
+                     
+                        <ul>
+                            <li><a href="clases/intro.pdf">Charla de introducción al training camp.</a></li>
+                        </ul>
+                     
                         <h3>Clases iniciales:</h3> 
                             <ol>
                                 <li> E/S + Introdución, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
