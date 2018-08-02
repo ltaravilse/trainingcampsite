@@ -17,7 +17,7 @@
                             <ol>
                                 <li> <a href="clases/ipc.pdf">E/S + Introdución</a>, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
                                 <li> <a href="clases/binary_search.pdf">Búsqueda binaria y ordenamiento</a>, a cargo de <em>Quimey Vivas</em></li>
-                                <li> Programación dinámica, a cargo de <em>Mariano Crosetti</em> <br>
+                                <li> <a href="clases/dp-mariano.pdf">Programación dinámica </a>, a cargo de <em>Mariano Crosetti</em> <br>
                                        <ul><li>  Mariano dictará un subconjunto de los siguientes temas, a definir y acorde al tiempo disponible: ¿Qué es la DP?
                                             Top Down y Bottom Up. Reconstruyendo la solución. K - ésima reconstrucción. Reducir una dimensión de memoria.
                                             Agregando una flag. Recuperando un parámetro. Dinámica en rangos. Dinámica en de máscara de bits.
