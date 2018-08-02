@@ -16,7 +16,7 @@
                         <h3>Clases iniciales:</h3> 
                             <ol>
                                 <li> <a href="clases/ipc.pdf">E/S + Introdución</a>, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
-                                <li> Búsqueda binaria y ordenamiento, a cargo de <em>Quimey Vivas</em></li>
+                                <li> <a href="clases/binary_search.pdf">Búsqueda binaria y ordenamiento</a>, a cargo de <em>Quimey Vivas</em></li>
                                 <li> Programación dinámica, a cargo de <em>Mariano Crosetti</em> <br>
                                        <ul><li>  Mariano dictará un subconjunto de los siguientes temas, a definir y acorde al tiempo disponible: ¿Qué es la DP?
                                             Top Down y Bottom Up. Reconstruyendo la solución. K - ésima reconstrucción. Reducir una dimensión de memoria.
@@ -44,7 +44,7 @@
                                 <li> <a href="clases/geomel.pdf">Geometría computacional</a>, a cargo de <em>Melanie Sclar</em></li>
                                     <ul><li> Elementos básicos: puntos, vectores y rectas. Operaciones importantes y  representación. Técnicas de barrido (&quot;sweep line&quot;): Par de puntos más cercano, Intersección de segmentos, Cápsula convexa (Convex Hull). Área de polígono y teorema de Pick.
                                     </li></ul>
-                                <li> Dualidad punto línea y &quot;convex hull trick&quot;, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
+                                <li> <a href="clases/chulltrick.pdf">Dualidad punto línea y &quot;convex hull trick&quot;</a>, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
                                        <ul><li> &quot;Convex hull trick&quot; es una técnica conocida para calcular eficientemente &quot;El máximo de varias funciones lineales&quot;, sobre un cierto valor de x. La dualidad punto línea es una forma de transformar problemas con rectas en problemas con puntos, y viceversa. Además de aprender ambas, usaremos esta última técnica para entender de dónde viene el nombre medio misterioso de &quot;convex hull trick&quot;.
                                         </li></ul>
 
