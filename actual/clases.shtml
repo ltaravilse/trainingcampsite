@@ -24,8 +24,8 @@
                                             Dinámica en prefijos de números. Dinámica en frentes.
                                         </li></ul>
                                 </li>
-                                <li> Matemática, a cargo de <em>Ariel Zylber</em></li>
-                                <li> Grafos, a cargo de <em>Matías Hunicken</em>
+                                <li> <a href="clases/Matematica.pdf">Matemática</a>, a cargo de <em>Ariel Zylber</em></li>
+                                <li> <a href="clases/Grafos.pdf">Grafos</a>, a cargo de <em>Matías Hunicken</em>
                                        <ul><li>  Temario <strong>tentativo</strong>: Representación de grafos, árboles, DFS/BFS, distancias mínimas (algoritmos de Dijkstra y Floyd), union-find, algoritmo de Kruskal.
                                         </li></ul>
                                 </li>
@@ -51,7 +51,7 @@
                                 <li> <a href="clases/max-flow.pdf">Flujo máximo </a>, a cargo de <em>Ariel Zylber</em></li>
                                     <ul><li>En la charla se tratarán algunos de los siguientes temas: Algoritmo para flujo máximo / corte mínimo, con énfasis en cómo utilizarlo para modelar y resolver problemas de competencias. Matching máximo bipartito. Teoremas de Konig y Hall. Mínima partición/cubrimiento por caminos. Teorema de Dilworth. Flujo de costo mínimo.
                                     </li></ul>
-                                <li> Matemática: Combinatoria y probabilidad, a cargo de <em>Pablo Zimmermann</em></li>
+                                <li> <a href="clases/Combinatoria.pdf">Matemática: Combinatoria y probabilidad</a>, a cargo de <em>Pablo Zimmermann</em></li>
                                     <ul><li> Introducción a la combinatoria. Formas de calcular números combinatorios. Principio de inclusión - exclusión. Nociones básicas de probabilidad en competencias. Introducción a Teoría de Juegos. Posiciones perdedoras. Nim y Misere Nim. Teorema de Sprague-Grundy.
                                     </li></ul>
                                 <li> Estructuras de datos sobre árboles, a cargo de <em>Matías Hunicken</em></li>
