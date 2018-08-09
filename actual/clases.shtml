@@ -30,7 +30,7 @@
                                         </li></ul>
                                 </li>
                                     
-                                <li> Estructuras de datos para programación competitiva, a cargo de <em>Quimey Vivas</em></li>
+                                <li> <a href="clases/estructuras.pdf">Estructuras de datos para programación competitiva</a>, a cargo de <em>Quimey Vivas</em></li>
                                 <li> Algoritmos golosos, a cargo de <em>Pablo Zimmermann</em></li>
                                     <ul><li> Introducción a los algoritmos golosos/voraces. Cómo pensarlos. Estrategia para usarlos en competencias. Teorema de la fruta golosa y del ordenamiento de a 2 (Taravilse, Álvarez). Falsos positivos: Los Greedy que no son Greedy. Ejemplos y anécdotas personales.
                                     </li></ul>                                
@@ -54,7 +54,7 @@
                                 <li> <a href="clases/Combinatoria.pdf">Matemática: Combinatoria y probabilidad</a>, a cargo de <em>Pablo Zimmermann</em></li>
                                     <ul><li> Introducción a la combinatoria. Formas de calcular números combinatorios. Principio de inclusión - exclusión. Nociones básicas de probabilidad en competencias. Introducción a Teoría de Juegos. Posiciones perdedoras. Nim y Misere Nim. Teorema de Sprague-Grundy.
                                     </li></ul>
-                                <li> Estructuras de datos sobre árboles, a cargo de <em>Matías Hunicken</em></li>
+                                <li> <a href="clases/arboles.pdf">Estructuras de datos sobre árboles</a>, a cargo de <em>Matías Hunicken</em></li>
                                        <ul><li>  Temario <strong>tentativo</strong>: heavy light decomposition, dsu on tree, centroid decomposition, link-cut tree.
                                         </li></ul>
 
