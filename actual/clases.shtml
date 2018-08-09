@@ -34,7 +34,7 @@
                                 <li> Algoritmos golosos, a cargo de <em>Pablo Zimmermann</em></li>
                                     <ul><li> Introducción a los algoritmos golosos/voraces. Cómo pensarlos. Estrategia para usarlos en competencias. Teorema de la fruta golosa y del ordenamiento de a 2 (Taravilse, Álvarez). Falsos positivos: Los Greedy que no son Greedy. Ejemplos y anécdotas personales.
                                     </li></ul>                                
-                                <li> Strings, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
+                                <li> <a href="clases/strings.pdf">Strings</a>, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
                                         <ul><li>Arreglo Z (ejemplo, buscar un string en otro). Bordes de una cadena (calculados a partir del arreglo Z, por ejemplo para encontrar sufijos o prefijos palindrómicos eficientemente). Hashing de Rabin-Karp y trucos asociados (o &quot;cómo usar hashing para computar casi cualquier cosa de strings&quot;, como por ejemplo todos los anteriores + el resultado del algoritmo de Manacher + el suffix array de un string). Tries.
                                         </li></ul>
 
