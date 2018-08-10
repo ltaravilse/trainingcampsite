@@ -31,7 +31,7 @@
                                 </li>
                                     
                                 <li> <a href="clases/estructuras.pdf">Estructuras de datos para programación competitiva</a>, a cargo de <em>Quimey Vivas</em></li>
-                                <li> Algoritmos golosos, a cargo de <em>Pablo Zimmermann</em></li>
+                                <li> <a href="clases/Clase 2_ Greedy.pdf">Algoritmos golosos</a>, a cargo de <em>Pablo Zimmermann</em></li>
                                     <ul><li> Introducción a los algoritmos golosos/voraces. Cómo pensarlos. Estrategia para usarlos en competencias. Teorema de la fruta golosa y del ordenamiento de a 2 (Taravilse, Álvarez). Falsos positivos: Los Greedy que no son Greedy. Ejemplos y anécdotas personales.
                                     </li></ul>                                
                                 <li> <a href="clases/strings.pdf">Strings</a>, a cargo de <em>Agustín Santiago Gutiérrez</em></li>
